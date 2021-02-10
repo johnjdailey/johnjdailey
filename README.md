@@ -9,5 +9,5 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/johnjdailey/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I like biscuits and cornbread.
+- ⚡ Fun fact: ... I like biscuits and cornbread
 
