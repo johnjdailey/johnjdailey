@@ -1,4 +1,6 @@
-### Hi there 👋 here is what I am working on!
+### Hi there, here is what I am working on! 👋 
+
+
 
 - 🔭 I’m currently working on ... Data Science
 - 🌱 I’m currently learning ... Python
@@ -8,4 +10,4 @@
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/johnjdailey/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like biscuits and cornbread.
--->
+
