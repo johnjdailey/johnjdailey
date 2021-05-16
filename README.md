@@ -27,12 +27,14 @@
    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://numpy.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
+   <a href="https://www.scipy.org/" target="_blank"> <img src="https://github.com/johnjdailey/johnjdailey/blob/main/images/scipy.png" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://matplotlib.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/315810/92255199-f6707f80-ee9f-11ea-9b8d-182dba6a0c59.png" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://docs.python-requests.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank"> <img src="https://github.com/johnjdailey/johnjdailey/blob/main/images/bsoup.jpg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://spacy.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://radimrehurek.com/gensim/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/b/b1/Gensim_logo.png" alt="gcp" width="40" height="40"/> </a>  </a>
+   <a href="https://www.nltk.org/" target="_blank"> <img src="https://github.com/johnjdailey/johnjdailey/blob/main/images/NLTK.png" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://xgboost.readthedocs.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="gcp" width="40" height="40"/> </a>  </a>
