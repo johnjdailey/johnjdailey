@@ -54,7 +54,7 @@
     <a href="https://www.interactivebrokers.com/" target="_blank"> <img src="https://github.com/johnjdailey/johnjdailey/blob/main/images/IBKR.jpg" alt="gcp" width="40" height="40"/> </a>  </a>
     <a href="https://slack.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
     <a href="https://zoom.us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zoomus/zoomus-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
-    <a href="https://asana.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Asana_logo.svg" alt="gcp" width="40" height="40"/> </a>  </a>
+    <a href="https://asana.com/" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/asana-logo.png" alt="gcp" width="40" height="40"/> </a>  </a>
     <a href="https://www.atlassian.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
     <a href="https://trello.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
     
