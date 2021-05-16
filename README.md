@@ -61,5 +61,14 @@
     <a href="https://www.atlassian.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
     <a href="https://trello.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
     <a href="https://piazza.com/" target="_blank"> <img src="https://github.com/johnjdailey/johnjdailey/blob/main/images/piazza.png" alt="gcp" width="40" height="40"/> </a>  </a>
-    
-    
+
+
+<hr/>
+<a href="https://github.com/johnjdailey/johnjdailey">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnjdailey&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/johnjdailey/johnjdailey">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnjdailey&show_icons=true&line_height=27&count_private=true&title_color=fffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="John's GitHub Stats" />
+</a>
