@@ -1,6 +1,8 @@
 ### Hi there, here is what I am working on! 👋 
 
+<iframe src="https://giphy.com/embed/v7WM6sLcnGIc8" width="480" height="274" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/matrix-the-cyberpunk-v7WM6sLcnGIc8">via GIPHY</a></p>
 
+---
 
 - 🔭 I’m currently working on ... Data Science
 - 🌱 I’m currently learning ... Python, Machine Learning and Markets
