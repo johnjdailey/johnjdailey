@@ -21,7 +21,7 @@
 ### Langauges and Tools:
    <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://www.anaconda.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg" alt="gcp" width="40" height="40"/> </a>  </a>
-   <a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/jupyter/jupyter-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
+   <a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
