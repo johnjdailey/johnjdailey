@@ -47,7 +47,7 @@
    <a href="https://www.heroku.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
-   <a href="https://www.arcgis.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="gcp" width="40" height="40"/> </a>  </a>   
+   <a href="https://www.arcgis.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://ubuntu.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://alpaca.markets/" target="_blank"> <img src="https://github.com/johnjdailey/johnjdailey/blob/main/images/alpaca.png" alt="gcp" width="40" height="40"/> </a>  </a>
