@@ -36,7 +36,7 @@
    <a href="https://radimrehurek.com/gensim/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/b/b1/Gensim_logo.png" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://www.nltk.org/" target="_blank"> <img src="https://github.com/johnjdailey/johnjdailey/blob/main/images/NLTK.png" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="gcp" width="40" height="40"/> </a>  </a>
-   <a href="https://xgboost.readthedocs.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" alt="gcp" width="40" height="40"/> </a>  </a>
+   <a href="https://xgboost.ai/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://opencv.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" alt="gcp" width="40" height="40"/> </a>  </a>
