@@ -40,7 +40,7 @@
    <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://opencv.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" alt="gcp" width="40" height="40"/> </a>  </a>
-   <a href="https://plotly.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
+<br>   <a href="https://plotly.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://github.com/johnjdailey" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
