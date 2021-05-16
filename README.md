@@ -63,6 +63,15 @@
     <a href="https://piazza.com/" target="_blank"> <img src="https://github.com/johnjdailey/johnjdailey/blob/main/images/piazza.png" alt="gcp" width="40" height="40"/> </a>  </a>
 
 
+### Lets Connect!
+<p align="left">
+<a href="https://www.linkedin.com/in/johnjdailey/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+<a href="mailto:johnjdailey@gmail.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+<a href="https://docs.google.com/document/d/1upT8NArhxlYewH4qiN6NskHQvmXeXeE_JtIoGSL6Gmw/edit?usp=sharing" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+<a href="https://twitter.com/John_J_Dailey" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+</p>
+
+
 <hr/>
 <a href="https://github.com/johnjdailey/johnjdailey">
 
