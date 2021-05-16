@@ -1,7 +1,5 @@
 ### Hi there, here is what I am working on! 👋 
 
-![cover]("https://giphy.com/gifs/matrix-the-cyberpunk-v7WM6sLcnGIc8")
-
 ---
 
 - 🔭 I’m currently working on ... Data Science
