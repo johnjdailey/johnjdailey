@@ -46,8 +46,8 @@
    <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://github.com/johnjdailey" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
-   <a href="https://www.heroku.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://github.com/johnjdailey/johnjdailey/blob/main/images/flask.jpeg" alt="gcp" width="40" height="40"/> </a>  </a>
+   <a href="https://www.heroku.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://www.arcgis.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="gcp" width="40" height="40"/> </a>  </a>
