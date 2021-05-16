@@ -2,6 +2,10 @@
 
 ---
 
+![cover](https://github.com/johnjdailey/johnjdailey/blob/main/images/giphy.gif)
+
+---
+
 - 🔭 I’m currently working on ... Data Science
 - 🌱 I’m currently learning ... Python, Machine Learning and Markets
 - 👯 I’m looking to collaborate on ... Quantitative Finance
