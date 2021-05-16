@@ -26,6 +26,7 @@
    <a href="https://numpy.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="gcp" width="40" height="40"/> </a>  </a>
+   <a href="https://xgboost.readthedocs.io/" target="_blank"> <img src="https://en.wikipedia.org/wiki/XGBoost#/media/File:XGBoost_logo.png" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://plotly.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>
