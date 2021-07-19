@@ -6,7 +6,7 @@
 
 ---
 
-- 🔭 I’m currently working on ... Data Science
+- 🔭 I’m currently working on ... Data Governance and Data Science
 - 🌱 I’m currently learning ... Python, Machine Learning and Markets
 - 👯 I’m looking to collaborate on ... Quantitative Finance
 - 🤔 I’m looking for help with ... Algorithmic Trading 
